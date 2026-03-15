@@ -84,11 +84,9 @@ Corporate Finance Analysis
 
 📂 Project Files
 
-Netflix_Financial_Model.xlsx – Excel financial model
+Netflix_Financial_Modelling_&_Valuation_Analysis.xlsx
 
-netflix_financial_modelling_analysis_report.pdf – Detailed valuation analysis report
-
-model_preview.png – Screenshot of the financial model
+README.md
 
 💡 Key Financial Insights
 
